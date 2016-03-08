@@ -1,0 +1,28 @@
+name: Current360
+favicon: null
+layout_spectrum: 0.5869693015702069
+typography_spectrum: 0.556526280939579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.42720819590613246
+  lightness: 0.3865718834567815
+  saturation: 0.8426051933784038
+  rhythmicContrast: 0.7609144453890622
+purpose: []
